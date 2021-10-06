@@ -8,7 +8,7 @@ https://www.kaggle.com/c/loan-default-prediction/data
 
 ## Methodology :
 The number of loan defaulters is lesser than the number of loanees with no loan default.Inorder to make the sample values proportionate undersampling was done.
-Commonly used classification models like Decision Tree and Logistic Regression was used.
+Commonly used classification models like Decision Tree and Logistic Regression were used.
 
 ## Result :
 Decision Tree Accuracy : 0.84
